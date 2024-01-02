@@ -8,5 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ### GitHub Avatar Web app Result Video
-
-https://www.flexclip.com/share/485710971bdd6cc1141fc9b30a0773c5dc0201e.html
+https://github.com/Ds090/GitHub_Avatar_Finder/assets/123591128/d5e93fc2-5d85-4f31-88dd-e7d2b98609e3
