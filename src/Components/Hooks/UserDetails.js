@@ -28,7 +28,7 @@ function UserDetailsHooks(UserName) {
         const data = await response.json();
         setphotoData(data.items); // Update UserDetails state with fetched user data.
       } catch (error) {
-        console.log("Error while fetching Data", error.message);
+        alert("Error while fetching Data", error.message);
       }
     }
     setisloading(false); // Set loading state to false after fetching data.

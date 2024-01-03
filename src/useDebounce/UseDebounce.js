@@ -1,5 +1,5 @@
 // The useDebounce hook takes a callback function (cb) and an optional delay time (default is 200 milliseconds).
-function useDebounce(cb, delay = 200) {
+function useDebounce(cb, delay = 1000) {
     let timerId; // Initialize a variable to hold the timer ID.
 
     // Returns a function that will be invoked every time the debounced function is called.
